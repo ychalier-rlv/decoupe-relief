@@ -4,7 +4,7 @@ Scripts Python pour convertir des cartes de profondeur en schéma de coupe pour 
 
 ## Démarrage
 
-1. Télécharger ce dépôt
+1. [Télécharger ce dépôt](https://github.com/ychalier-rlv/decoupe-relief/archive/refs/heads/main.zip)
 2. Installer [Python](https://www.python.org/)
 3. Installer [Inkscape](https://inkscape.org/fr/)
 4. Installer les dépendances listées dans [requirements.txt](requirements.txt) : dans un terminal, exécuter la commande suivante :
